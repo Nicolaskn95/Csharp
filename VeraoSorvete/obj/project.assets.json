@@ -2014,19 +2014,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nicol\\.nuget\\packages\\": {}
+    "C:\\Users\\Nicolas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicol\\OneDrive - Fatec Centro Paula Souza\\CSharp\\VeraoSorvete\\VeraoSorvete.csproj",
+      "projectUniqueName": "C:\\Users\\Nicolas\\Desktop\\C#\\VeraoSorvete\\VeraoSorvete.csproj",
       "projectName": "VeraoSorvete",
-      "projectPath": "C:\\Users\\nicol\\OneDrive - Fatec Centro Paula Souza\\CSharp\\VeraoSorvete\\VeraoSorvete.csproj",
-      "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicol\\OneDrive - Fatec Centro Paula Souza\\CSharp\\VeraoSorvete\\obj\\",
+      "projectPath": "C:\\Users\\Nicolas\\Desktop\\C#\\VeraoSorvete\\VeraoSorvete.csproj",
+      "packagesPath": "C:\\Users\\Nicolas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nicolas\\Desktop\\C#\\VeraoSorvete\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nicolas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2092,7 +2092,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

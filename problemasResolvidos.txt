@@ -1,6 +1,9 @@
 PROBLEMAS RESOLVIDOS
 1.	VISUAL STUDIO na "appsettings" em Data Source, para identificar a barra invertida tem que colocar "\\" ao inves de "\"
+
 2.	SQL SERVER ao criar um diagrama de banco de dados e der erros de permissao, botao direito no banco de daddos "propiedades" e "arquivos" e escolher "sa" 
+
+3. VISUAL STUDIO Erro NU1100: deletar o arquivo Nuget.config local: C:\Users\"<nome do users>"\AppData\Roaming\NuGet
 ----------------------------------------------------------
 
 
