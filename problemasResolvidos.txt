@@ -1,0 +1,25 @@
+PROBLEMAS RESOLVIDOS
+1.	VISUAL STUDIO na "appsettings" em Data Source, para identificar a barra invertida tem que colocar "\\" ao inves de "\"
+2.	SQL SERVER ao criar um diagrama de banco de dados e der erros de permissao, botao direito no banco de daddos "propiedades" e "arquivos" e escolher "sa" 
+----------------------------------------------------------
+
+
+--------------------------------------------------------
+DICAS:
+-package manager console(codigos)
+add-migration InitialMigration
+	o EF cria o relacionamentos das tabelas, as tabelas e os dados prontos para upar no banco de dados
+update-database
+	ele cria a conexao com o banco de dados criando um banco la no banco
+add-migration <nome>
+	para preencher dados que estao NULL no banco na instrução UP e DOWN
+viewData
+	implementa no controller no action result
+bootstrap grid
+		col-xs dispositivos extra peq.
+		col-sm dispositivos peq.
+		col-md dispositivos medios
+		col-lg dispositivos grandes
+		col-xl dispositivos xl  
+	
+	
