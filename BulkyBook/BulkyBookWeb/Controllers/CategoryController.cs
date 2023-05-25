@@ -80,7 +80,7 @@ namespace BulkyBookWeb.Controllers
                 TempData["success"] = "Category edit successufully";
                 return RedirectToAction("Index");
             }
-            return View(obj);
+            return View();
         }
         public IActionResult Delete(int? id)
         {

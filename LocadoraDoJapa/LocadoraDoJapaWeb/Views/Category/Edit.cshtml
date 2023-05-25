@@ -1,12 +1,13 @@
 ﻿@model Category
 
-<form method="post">
+<form method="post" asp-action="Edit">
+    <input asp-for="CategoryId" type="hidden" value="@Model.CategoryId" />
     <div class="border p-3 mt-4">
         <div class="row pb-2">
-            <h2 class="text-primary">Create Category</h2>
-            <hr/>
-            <div/>
-@*            <div asp-validation-summary="All"></div>*@ @*cria tipo uma lista dos erros relacionado aos cmapos*@
+            <h2 class="text-primary">Edit Category</h2>
+            <hr />
+            <div />
+            @*            <div asp-validation-summary="All"></div>*@ @*cria tipo uma lista dos erros relacionado aos cmapos*@
             <div class="mb-3 row p-1">
                 <label asp-for="Name" class="p-0">Category Name</label>
                 <input asp-for="Name" class="form-control" />@*Para definir para onde o dado vai usar "asp-for"*@
@@ -20,12 +21,12 @@
 
             <div class="row">
                 <div class="row pb-0.5 col-4 col-md-3">
-                    <button type="Submit" class="btn btn-primary form-control">Create</button>
+                    <button type="submit" class="btn btn-primary form-control">Update</button>
                 </div>
                 <div class="col-6 col-md-3">
                     <a asp-controller="Category" asp-action="Index" class="btn btn-secondary form-control">
-                    Back to list
-                </a>
+                        Back to list
+                    </a>
                 </div>
             </div>
         </div>

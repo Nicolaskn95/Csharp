@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "snAtcOs5IMc5yv2VVf5gm/W58EamyGp/LGdCQp/+llRaZPStjpaeRUeIxR2PB0+A5+zXzgdO3hOOURz8RVYINw==",
+  "dgSpecHash": "AvZD6rHUnqQcijjM7YiAqMrDvB5nKAnsw8gssd2bzAau89Qx4GVQtbNXtQrTGol/iQi74vaXEn5F/G4OZ56biA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Csharp\\LocadoraDoJapa\\LocadoraDoJapaWeb\\LocadoraDoJapaWeb.csproj",
+  "projectFilePath": "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Csharp\\Csharp\\LocadoraDoJapa\\LocadoraDoJapaWeb\\LocadoraDoJapaWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nicol\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\nicol\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

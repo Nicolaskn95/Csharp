@@ -10140,11 +10140,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Csharp\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+      "projectUniqueName": "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Csharp\\Csharp\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
       "projectName": "BulkyBookWeb",
-      "projectPath": "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Csharp\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+      "projectPath": "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Csharp\\Csharp\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
       "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Csharp\\BulkyBook\\BulkyBookWeb\\obj\\",
+      "outputPath": "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Csharp\\Csharp\\BulkyBook\\BulkyBookWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",

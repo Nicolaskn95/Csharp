@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Csharp\\LocadoraDoJapa\\LocadoraDoJapaWeb\\LocadoraDoJapaWeb.csproj": {}
+    "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Csharp\\Csharp\\LocadoraDoJapa\\LocadoraDoJapaWeb\\LocadoraDoJapaWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Csharp\\LocadoraDoJapa\\LocadoraDoJapaWeb\\LocadoraDoJapaWeb.csproj": {
+    "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Csharp\\Csharp\\LocadoraDoJapa\\LocadoraDoJapaWeb\\LocadoraDoJapaWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Csharp\\LocadoraDoJapa\\LocadoraDoJapaWeb\\LocadoraDoJapaWeb.csproj",
+        "projectUniqueName": "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Csharp\\Csharp\\LocadoraDoJapa\\LocadoraDoJapaWeb\\LocadoraDoJapaWeb.csproj",
         "projectName": "LocadoraDoJapaWeb",
-        "projectPath": "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Csharp\\LocadoraDoJapa\\LocadoraDoJapaWeb\\LocadoraDoJapaWeb.csproj",
+        "projectPath": "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Csharp\\Csharp\\LocadoraDoJapa\\LocadoraDoJapaWeb\\LocadoraDoJapaWeb.csproj",
         "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Csharp\\LocadoraDoJapa\\LocadoraDoJapaWeb\\obj\\",
+        "outputPath": "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Csharp\\Csharp\\LocadoraDoJapa\\LocadoraDoJapaWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",
